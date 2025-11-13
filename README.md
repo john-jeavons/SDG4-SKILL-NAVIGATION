@@ -1,6 +1,6 @@
 # SDG4-SKILL-NAVIGATION
 # 🎓 SDG4 Skill Navigator - Query Classification Model
-
+[Project link](https://huggingface.co/spaces/johnjeavons/sdg4-skill-navigator)
 ## 1. Project Overview
 
 This project implements a text classification model designed to automatically categorize user queries related to skills and educational opportunities. The primary goal is to serve as the core engine for an **SDG4 Skill Navigator** platform, helping route users to the correct resources based on their needs.
