@@ -30,6 +30,24 @@ This project is delivered as a single Jupyter Notebook (`project (1).ipynb`). It
 ### Dependencies
 
 Run the following command in the first cell of the notebook to install all required libraries:
+---
+title: Sdg4 Skill Navigator
+emoji: 💬
+colorFrom: yellow
+colorTo: purple
+sdk: gradio
+sdk_version: 5.42.0
+app_file: app.py
+pinned: false
+hf_oauth: true
+hf_oauth_scopes:
+- inference-api
+short_description: edubot
+---
+
+An example chatbot using [Gradio](https://gradio.app), [`huggingface_hub`](https://huggingface.co/docs/huggingface_hub/v0.22.2/en/index), and the [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index).
+   
+
 
 ```bash
 !pip install transformers datasets accelerate pyarrow==19.0.0
@@ -54,3 +72,14 @@ login to hugging face
 
 5. Contact
 For questions regarding this project, please contact the repository owner.
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
