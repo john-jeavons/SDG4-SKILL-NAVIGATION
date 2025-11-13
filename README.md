@@ -49,8 +49,7 @@ Demo: The final cells demonstrate model inference using the Hugging Face pipelin
 4. Deployment and Model Card
 The trained and deployed model, along with its configuration and detailed results, is available on the Hugging Face Hub. This card provides details on the model architecture, training parameters, evaluation metrics, and licensing.
 
-🔗 Hugging Face Model Card Link
-https://huggingface.co/spaces/johnjeavons/sdg4-skill-navigator
+[🔗 Hugging Face Model Card Link](https://huggingface.co/spaces/johnjeavons/sdg4-skill-navigator)
 
 5. Contact
 For questions regarding this project, please contact the repository owner.
